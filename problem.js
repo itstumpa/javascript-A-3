@@ -2,7 +2,7 @@
 //write your code here
 
 var area = 800;
-eachBroShare = area / 2;
+eachBroShare = area / 2; /* Always declar var */
 
 console.log(eachBroShare);    
 
